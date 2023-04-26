@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebastian-IngSoft
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... I study software engineering career
+- 🌱 I’m currently learning ... I study software engineering
 - 💞️ I’m looking to collaborate... any project
 - 📫 How to reach me ... sebastiansarmientocas@gmail.com
 
