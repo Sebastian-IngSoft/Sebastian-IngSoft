@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sebastian-IngSoft
-- 👀 I’m interested in ... web development
+- 👀 I’m interested in ... web, desktop and mobile development
 - 🌱 I’m currently learning ... I study software engineering
 - 💞️ I’m looking to collaborate... any project
 - 📫 How to reach me ... https://www.linkedin.com/in/sebastian-sarmiento-castro-4a3b64204/
